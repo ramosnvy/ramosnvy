@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**ramosnvy/ramosnvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-Here are some ideas to get you started:
+## Some informations 💬
+My name is Pedro Ramos. I'm 18y and i currently live in Pirassununga, São Paulo.
+I have technical formation in Systems Development, and I have plans to begin a Software engineer graduation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my free time, I watch lives streams about PHP, laravel and other things about back-end or front-end. I really like to participate in dev's communitys and know other peoples. Sometimes I play video games with my friends and we watch championships together.
+
+***p.s: I'm a really god CSGO player*** 
+
+
+### Detailed information 🕵️‍♂️
+
+- Name: Pedro Ramos
+- Age: 18
+- Living in: Pirassununga, São Paulo, Brazil
+- Stack: PHP, Laravel and SQL
+- University: No at the moment... 🤔
+
+#### Curiosities about me 🖖
+- I  sometimes think I was start study a little late.
+- I tried to be a professional CS GO player.
+- I love otters 🦦♥	
+- I'm a big fan of Marvel movies
