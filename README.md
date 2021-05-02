@@ -20,7 +20,6 @@ On my free time, I watch lives streams about PHP, laravel and other things about
 - University: No at the moment... 🤔
 
 #### Curiosities about me 🖖
-- I  sometimes think I was start study a little late.
 - I tried to be a professional CS GO player.
 - I love otters 🦦♥	
 - I'm a big fan of Marvel movies
