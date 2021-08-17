@@ -16,7 +16,7 @@ On my free time, I watch lives streams about PHP, laravel and other things about
 - Name: Pedro Ramos
 - Age: 18
 - Living in: Pirassununga, São Paulo, Brazil
-- Stack: PHP, Laravel and MySQL
+- Stack: PHP, Java, Python, Laravel and MySQL
 - University: No at the moment... 🤔
 
 #### Curiosities about me 🖖
