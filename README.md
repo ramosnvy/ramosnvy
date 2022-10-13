@@ -22,7 +22,7 @@ Educatec is a educational plataform. She is a no-cust plataform who was develope
 ### Detailed information 🕵️‍♂️
 
 - Name: Pedro Ramos
-- Age: 18
+- Age: 19
 - Living in: Pirassununga, São Paulo, Brazil
 - Stack: PHP, Java, Python, Laravel and MySQL
 - University: No at the moment... 🤔
