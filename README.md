@@ -10,6 +10,14 @@ On my free time, I watch lives streams about PHP, laravel and other things about
 
 
 
+### My Projects 📝
+
+My principal project at the moment is Educatec.
+
+Educatec is a educational plataform. She is a no-cust plataform who was developed in a Hackathon of Etec and CPS.
+
+
+
 
 ### Detailed information 🕵️‍♂️
 
