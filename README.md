@@ -23,9 +23,9 @@ Educatec is a educational plataform. She is a no-cust plataform who was develope
 
 - Name: Pedro Ramos
 - Age: 19
-- Living in: Pirassununga, São Paulo, Brazil
-- Stack: PHP, Java, Python, Laravel and MySQL
-- University: No at the moment... 🤔
+- Living in: Dois Vizinhos, Paraná, Brazil
+- Stack: PHP, Laravel and MySQL
+- University: UTFPR - Universidade Tecnológica Federal do Paraná
 
 #### Curiosities about me 🖖
 - I love otters 🦦♥	
