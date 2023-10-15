@@ -21,7 +21,7 @@ I have technical formation in Systems Development, and I beginning the graduatio
 ### Detailed information 🕵️‍♂️
 
 - Name: Pedro Ramos
-- Age: 19
+- Age: 20
 - Living in: Dois Vizinhos, Paraná, Brazil
 - Stack: C#, PHP, Laravel, SQL
 - University: UTFPR - Universidade Tecnológica Federal do Paraná
