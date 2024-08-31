@@ -9,23 +9,13 @@ I have technical formation in Systems Development, and I beginning the graduatio
 
 
 
-### My Projects 📝
-
-- Educatec
-- Ong Todo Bicho Website
-- CSGOMatchs API
-
-
-
 
 ### Detailed information 🕵️‍♂️
 
 - Name: Pedro Ramos
-- Age: 20
+- Age: 21
 - Living in: Dois Vizinhos, Paraná, Brazil
 - Stack: C#, PHP, Laravel, SQL
 - University: UTFPR - Universidade Tecnológica Federal do Paraná
 
-#### Curiosities about me 🖖
-- I love otters 🦦♥	
 
