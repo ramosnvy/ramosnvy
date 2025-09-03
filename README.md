@@ -15,6 +15,37 @@
 
 - 🔥 Building scalable APIs and enterprise solutions
 
+
+---
+
+## 💼 Professional Achievements
+
+<table>
+<tr>
+<td width="50%">
+
+🚀 **Performance Optimization**
+- Achieved **120x reduction** in processing time
+- Optimized algorithms and database queries
+- Enhanced system scalability
+
+🔌 **API Development**  
+- Built RESTful APIs for delivery platforms
+- Integrated with iFood, AiqFome, Web Menu
+- Maintained internal and public APIs
+
+</td>
+<td width="50%">
+
+🧾 **Enterprise Solutions**
+- Fiscal receipt systems (NF-e, NFC-e, CF-e)
+- Electronic invoice processing
+- Sales routine optimization
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -49,38 +80,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
----
-
-## 💼 Professional Achievements
-
-<table>
-<tr>
-<td width="50%">
-
-🚀 **Performance Optimization**
-- Achieved **120x reduction** in processing time
-- Optimized algorithms and database queries
-- Enhanced system scalability
-
-🔌 **API Development**  
-- Built RESTful APIs for delivery platforms
-- Integrated with iFood, AiqFome, Web Menu
-- Maintained internal and public APIs
-
-</td>
-<td width="50%">
-
-🧾 **Enterprise Solutions**
-- Fiscal receipt systems (NF-e, NFC-e, CF-e)
-- Electronic invoice processing
-- Sales routine optimization
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🌐 Let's Connect!
 
